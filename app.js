@@ -31,7 +31,7 @@ const endPlay = () =>{
 	let finalMsg = "Total Time : "+totalTime+ " seconds  WPM : " +speed+ "  ";
 
 	finalMsg += compareWords(msg.innerText, totalStr);
-	finalMsg += "\n \n ᴾˡᵉᵃˢᵉ ʳᵉᶠʳᵉˢʰ ᵗʰᵉ ᵖᵃᵍᵉ ᵗᵒ ˢᵗᵃʳᵗ ᵃᵍᵃⁱⁿ"
+	finalMsg += "\n \n 𝘗𝘭𝘦𝘢𝘴𝘦 𝘳𝘦𝘧𝘳𝘦𝘴𝘩 𝘵𝘩𝘦 𝘱𝘢𝘨𝘦 𝘵𝘰 𝘴𝘵𝘢𝘳𝘵 𝘢𝘨𝘢𝘪𝘯"
 	msg.innerText = finalMsg;
 }
 

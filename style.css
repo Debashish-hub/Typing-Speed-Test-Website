@@ -8,7 +8,7 @@ body{
 	padding: 0;
 	margin: 0;
 	box-sizing: border-box;
-	font-family: 'Josefin Sans', sans-serif;		
+	/* font-family: 'Josefin Sans', sans-serif;		 */
 }
 .main{
 	width: 100%;
@@ -25,9 +25,9 @@ body{
 .main .center h1{
 	text-transform: capitalize ;
 	margin-bottom: 120px;
-	color: #cf9b23;
+	color: rgb(6, 185, 191);
 	text-shadow: 1px 2px 3px #2980b9;
-	font-size: 2.1rem;
+	font-size: 3rem;
 }
 h2{
 	text-align: center;
@@ -51,11 +51,11 @@ h2{
     /* border-radius: .25rem; */
     transition: border-color .15s ease-in-out,box-shadow .15s ease-in-out;
 
-	background-color: transparent;
-	box-shadow: 0 0 1px rgba(0, 0, 0, 0.5);
+		background-color: transparent;
+		box-shadow: 0 0 1px rgba(0, 0, 0, 1);
 /*	border-radius: 10px 10px 0 0;
-*/	border: 5px solid #cf9b23;
-	color: white;
+*/	border: 5px solid rgb(6, 185, 191);;
+		color: white;
 /*	font-size: 1.3rem;
 */}
 .mainbtn{

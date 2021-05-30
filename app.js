@@ -1,7 +1,7 @@
 const setOfWords = [
-	"Add more content to the website.",
-	"Add a lot more lines here."
-
+	"ASCII stupid question, get stupind ANSI.",
+	"What did the JAVA code say to C code? A: You have no class.",
+	"Hardware: The part of a computer you can kick."
 ];
 
 const msg = document.getElementById('msg');

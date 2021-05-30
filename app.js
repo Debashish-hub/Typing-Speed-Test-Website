@@ -13,7 +13,9 @@ const setOfWords = [
 	"Hardware: The part of a computer you can kick.",
 	"Why do sin and tan work? just cos.",
 	"Sympathy for the Devil is really just about being nice to QAs. ",
-	"Real programmers can write assembly code in any language."
+	"Real programmers can write assembly code in any language.",
+	"Pirates go 'arg!', computer pirates go 'argv!' ",
+	"Why did the programmer quit his job? Because he didn't get arrays."
 
 ];
 

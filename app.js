@@ -10,7 +10,8 @@ const setOfWords = [
 	"Why do Java programmers have to wear glasses? Because they don't see sharp.",
 	"What did the JAVA code say to C code? A: You have no class.",
 	"Old C programmers don't lie,they're just cast into void.",
-	"Hardware: The part of a computer you can kick."
+	"Hardware: The part of a computer you can kick.",
+	"Why do sin and tan work? just cos."
 ];
 
 const msg = document.getElementById('msg');

@@ -11,7 +11,9 @@ const setOfWords = [
 	"What did the JAVA code say to C code? A: You have no class.",
 	"Old C programmers don't lie,they're just cast into void.",
 	"Hardware: The part of a computer you can kick.",
-	"Why do sin and tan work? just cos."
+	"Why do sin and tan work? just cos.",
+	"Sympathy for the Devil is really just about being nice to QAs. "
+
 ];
 
 const msg = document.getElementById('msg');

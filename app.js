@@ -12,7 +12,8 @@ const setOfWords = [
 	"Old C programmers don't lie,they're just cast into void.",
 	"Hardware: The part of a computer you can kick.",
 	"Why do sin and tan work? just cos.",
-	"Sympathy for the Devil is really just about being nice to QAs. "
+	"Sympathy for the Devil is really just about being nice to QAs. ",
+	"Real programmers can write assembly code in any language."
 
 ];
 

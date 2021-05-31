@@ -6,7 +6,7 @@ We also have created a python project with same functions which you can find <a 
 
  Click Here to view the deployment!
  
- [![Deploy](https://img.icons8.com/color/48/000000/launched-rocket--v2.png)](#)
+ [![Deploy](https://img.icons8.com/color/48/000000/launched-rocket--v2.png)](https://testtypingspeed.netlify.app/)
 <div>
   <h2>Technology Stack</h2>
   <li><a href="https://html.com/">HTML</a></li>
